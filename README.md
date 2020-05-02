@@ -38,7 +38,7 @@ char* Enkripsi(char enc[100])
     int i, j;
     for (i=0; enc[i]!='\0'; i++)
 	{
-        for (j=0; j<strlen(kunci); j++)
+        for (j=0; j<strlen(kunci); j++)	//strlen untuk hitung karakter kunci
         {
             if(enc[i] == kunci[j])
 			{
