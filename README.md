@@ -196,5 +196,11 @@ berikut list struct fuse_operation yang jika dipanggil akan menjalankan fungsiny
     .rename     = xmp_rename,
     }; 
 ```
-![Output1](https://raw.githubusercontent.com/MilenFifi/SoalShiftSISOP20_modul4_T10_2/master/Screenshot%20(97).png)
-![Output2](https://raw.githubusercontent.com/MilenFifi/SoalShiftSISOP20_modul4_T10_2/master/Screenshot%20(96).png)
+
+![Output1](https://raw.githubusercontent.com/MilenFifi/SoalShiftSISOP20_modul4_T10_2/master/Screenshot%20(106).png)
+![Output2](https://raw.githubusercontent.com/MilenFifi/SoalShiftSISOP20_modul4_T10_2/master/Screenshot%20(107).png)
+![Output3](https://raw.githubusercontent.com/MilenFifi/SoalShiftSISOP20_modul4_T10_2/master/Screenshot%20(97).png)
+![Output4](https://raw.githubusercontent.com/MilenFifi/SoalShiftSISOP20_modul4_T10_2/master/Screenshot%20(96).png)
+![Output5](https://raw.githubusercontent.com/MilenFifi/SoalShiftSISOP20_modul4_T10_2/master/Screenshot%20(99).png)
+![Output6](https://raw.githubusercontent.com/MilenFifi/SoalShiftSISOP20_modul4_T10_2/master/Screenshot%20(98).png)
+![Output4](https://raw.githubusercontent.com/MilenFifi/SoalShiftSISOP20_modul4_T10_2/master/Screenshot%20(100).png)
